@@ -6,3 +6,4 @@ for i in range(length):
     password += random.choice(alphabet)
 
 print('Ваш пароль: ',password)
+print('Спасибо, что пользуетесь нашей программой')
